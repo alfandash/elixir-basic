@@ -13,4 +13,8 @@ defmodule BasicTest do
   test "substract number" do
     assert Basic.substract(4, 2) == 2
   end
+
+  test "multiple" do
+    assert Basic.multiple(1, 2) == 2
+  end
 end

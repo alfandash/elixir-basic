@@ -6,7 +6,7 @@ defmodule BasicTest do
     assert Basic.hello() == :world
   end
 
-  test "adding number" do
+  test "adding number " do
     assert Basic.add(1, 2) == 3
   end
 

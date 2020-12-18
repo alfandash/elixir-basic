@@ -10,7 +10,7 @@ defmodule BasicTest do
     assert Basic.add(1, 2) == 3
   end
 
-  test "substract number" do
+  test "substract number " do
     assert Basic.substract(4, 2) == 2
   end
 
